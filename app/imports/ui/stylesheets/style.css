@@ -1,3 +1,15 @@
 body {
   padding-top: 61px;  /* Move body of page below navbar. */
 }
+#login-buttons a, .accounts-dialog a {
+  color: red;
+  font-size: large;
+}
+.ui.middle.container{
+  background: url("/images/board.jpg") no-repeat center;
+  height: 800px;
+  width: 800px;;
+}
+#Home_Page{
+  background: url("/images/board.jpg") no-repeat center;
+}
